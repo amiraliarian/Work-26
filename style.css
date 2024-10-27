@@ -1,9 +1,12 @@
+*{font-family: tahoma;}
+
 .btn{
     background-color: blue;
     color: aquamarine;
     width: 50%;
     height: 5rem;
     border-radius: 1000000px;
+    font-size: 2rem ;
 }
 
 .btn__box{
