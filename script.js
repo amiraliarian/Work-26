@@ -1,3 +1,3 @@
 function number() {
-    let
+    let number1
 }
