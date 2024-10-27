@@ -1,15 +1,16 @@
-*{font-family: tahoma;}
-
-.btn{
-    background-color: blue;
-    color: aquamarine;
-    width: 50%;
-    height: 5rem;
-    border-radius: 1000000px;
-    font-size: 2rem ;
+* {
+    font-family: tahoma;
 }
 
-.btn__box{
+.btn {
+    background-color: blue;
+    color: rgb(0, 0, 0);
+    width: 50%;
+    border-radius: 1000000px;
+    font-size: 2rem;
+    margin-top: 30vh;
+}
+.btn__box {
     display: flex;
     justify-content: center;
 }
