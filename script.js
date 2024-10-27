@@ -1,3 +1,3 @@
 function number() {
-    let number1
+    let number1= +prompt
 }
